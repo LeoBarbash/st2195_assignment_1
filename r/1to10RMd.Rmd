@@ -1,0 +1,14 @@
+---
+title: "1to10RMd"
+author: "Lev Barbash"
+date: "22 05 2023"
+output: html_document
+---
+
+## R
+
+Printing integers between 1 and 10 in R:
+
+```{r 1to10}
+print(1:10)
+```
